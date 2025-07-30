@@ -4,3 +4,4 @@
 This is an cr3 shuffeling dma fix for Fortnite. Dlls from the include folder to ur project. fix starts working after that dma attaches to the process. u can use it till next eac update
 
 Sorry for my english
+hmu if you need a good source cypher.ul on discord
